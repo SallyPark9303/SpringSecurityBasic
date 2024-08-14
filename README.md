@@ -1,5 +1,8 @@
 Spring Security 강좌   https://www.udemy.com/course/spring-security-6-jwt-oauth2-korean/?couponCode=KEEPLEARNING
 
+정리 블로그 : https://sally-world.tistory.com/category/Spring%20Security%20-%20udemy
+
+
 섹션 1 : 소개 및 개요
 
 - Spring Security 내부 흐름 소개
